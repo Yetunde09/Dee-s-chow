@@ -327,6 +327,9 @@ animation:hamburger_box .5s ease infinite;}
             margin: 0 auto 10px;
             width: 70px;
         }
+        #contact .icon img{
+         width:70px;
+         height:70px;}
         #contact .contact-info{
             text-align: left;
         }
